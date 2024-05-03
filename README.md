@@ -37,3 +37,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the [MIT License](license.txt).
+![Dashboard 1](https://github.com/yaminiReddy2024/Excel-and-tableau-project-for-wealth-of-nations/assets/168829924/cc3b919b-435f-4e77-b618-dfe71b1bc358)
